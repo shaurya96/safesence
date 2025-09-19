@@ -9,7 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@prisma/client": "^6.14.0",
+    "@prisma/client": "^6.15.0",
     "@sendgrid/mail": "^8.1.5",
     "@supabase/supabase-js": "^2.55.0",
     "bcrypt": "^6.0.0",
